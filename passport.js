@@ -3,9 +3,8 @@ const GithubStrategy = require("passport-github2").Strategy;
 const FacebookStrategy = require("passport-facebook").Strategy;
 const passport = require("passport");
 
-const GOOGLE_CLIENT_ID =
-  "your id";
-const GOOGLE_CLIENT_SECRET = "your id";
+const GOOGLE_CLIENT_ID="1074024476236-c7uto6qrnt7b10ud4qg4nedfilarv0lr.apps.googleusercontent.com";
+const GOOGLE_CLIENT_SECRET ="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";
 
 GITHUB_CLIENT_ID = "your id";
 GITHUB_CLIENT_SECRET = "your id";
